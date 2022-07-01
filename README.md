@@ -1,2 +1,5 @@
-# mobile-dio-santander-bootcamp
-Desafio de Projeto sobre Git/Github
+# Santander Bootcamp Mobile Developer
+
+### Trilha Kotlin - disponibilizado pela DIO (Digital Innovation One) 
+
+### The Digionebank Project 
