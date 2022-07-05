@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2e67ad4-3498-47bd-8b74-decb88430fa8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/ClienteTipo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/ClienteTipoEnumTeste.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_annotations_common_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_common_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BUexizJCyoNS5n60JXORlODzzK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/danielebsilva/Estudos/mobile-dio-santander-bootcamp"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ClienteTipoEnumTesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.ClienteTipoEnumTesteKt" />
+      <module name="digionebank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ClienteTipoEnumTesteKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2e67ad4-3498-47bd-8b74-decb88430fa8" name="Changes" comment="" />
+      <created>1656965338388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656965338388</updated>
+    </task>
+    <servers />
+  </component>
+</project>
