@@ -1,5 +1,8 @@
 /fundamentos_oo/.idea
+/fundamentos_oo/src/test
+/fundamentos_oo/target
 /target/
+/.idea
 
 # Compiled class file
 *.class

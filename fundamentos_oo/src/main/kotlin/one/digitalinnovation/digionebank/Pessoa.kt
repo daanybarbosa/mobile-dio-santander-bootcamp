@@ -1,5 +1,21 @@
 package one.digitalinnovation.digionebank
 
+abstract class Pessoa(
+    val nome: String,
+    val cpf: String
+)
+
+/*
+// Exemplo 2
+// open (classe aberta) - para possibilitar que a classe Funcionario possa herdar as propriedades da classe Pessoa
+open class Pessoa(
+    open val nome: String,
+    open val cpf: String
+)
+ */
+
+/*
+// Exemplo 1
 class Pessoa {
     var nome: String = "Daniele"
     var cpf: String = "123.123.123-12"
@@ -8,8 +24,4 @@ class Pessoa {
     constructor() //construtor secundário
     fun pessoaInfo() = "$nome e $cpf"
 }
-
-fun main(){
-    val daniele = Pessoa()
-    println(daniele.pessoaInfo())
-}
+ */

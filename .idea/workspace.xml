@@ -5,37 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2e67ad4-3498-47bd-8b74-decb88430fa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/ClienteTipo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/ClienteTipoEnumTeste.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_annotations_common_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_common_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_4_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TestePessoa.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/BancoTeste.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteBanco.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/ClienteTipoEnumTeste.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteClienteTipoEnum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/target/classes/META-INF/digionebank.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/target/classes/META-INF/digionebank.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,12 +49,34 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/danielebsilva/Estudos/mobile-dio-santander-bootcamp"
+    "last_opened_file_path": "/Users/danielebsilva/Estudos/mobile-dio-santander-bootcamp",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="ClienteTipoEnumTesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.ClienteTipoEnumTesteKt" />
+  <component name="RunManager" selected="Kotlin.TesteFuncionarioKt">
+    <configuration name="TesteBancoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TesteBancoKt" />
+      <module name="digionebank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteClienteTipoEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TesteClienteTipoEnumKt" />
+      <module name="digionebank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteFuncionarioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TesteFuncionarioKt" />
+      <module name="digionebank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePessoaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TestePessoaKt" />
       <module name="digionebank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,7 +84,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ClienteTipoEnumTesteKt" />
+        <item itemvalue="Kotlin.TesteFuncionarioKt" />
+        <item itemvalue="Kotlin.TestePessoaKt" />
+        <item itemvalue="Kotlin.TesteBancoKt" />
+        <item itemvalue="Kotlin.TesteClienteTipoEnumKt" />
       </list>
     </recent_temporary>
   </component>
@@ -86,5 +101,16 @@
       <updated>1656965338388</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
