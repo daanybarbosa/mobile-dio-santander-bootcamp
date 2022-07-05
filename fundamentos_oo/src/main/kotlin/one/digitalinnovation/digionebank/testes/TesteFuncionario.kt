@@ -4,6 +4,7 @@ import one.digitalinnovation.digionebank.Funcionario
 import one.digitalinnovation.digionebank.Pessoa
 import java.math.BigDecimal
 
+/*
 fun main(){
     val daniele = Pessoa("Daniele", "123.456.789-0")
     //println(daniele.pessoaInfo())
@@ -14,5 +15,5 @@ fun main(){
     println(bruno.nome)
     println(bruno.cpf)
     println(bruno.salario)
-
 }
+ */

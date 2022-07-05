@@ -1,0 +1,14 @@
+package one.digitalinnovation.digionebank.testes
+
+import one.digitalinnovation.digionebank.Analista
+import one.digitalinnovation.digionebank.Funcionario
+
+class imprimeRelatorioFuncionario(joao: Analista) {
+
+    //metodo estatico - possibilita a invocação via classe
+    companion object {
+        fun imprime(funcionario: Funcionario){
+            println(funcionario.toString() )
+        }
+    }
+}
