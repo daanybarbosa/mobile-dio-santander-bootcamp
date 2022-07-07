@@ -1,12 +1,6 @@
-/fundamentos_oo/.idea
-/fundamentos_oo/src/test
-/fundamentos_oo/target
-/api-collections/.idea
-/api-collections/src/test
-/api-collections/target
-
 /target/
 /.idea
+/src/test/
 
 # Compiled class file
 *.class
