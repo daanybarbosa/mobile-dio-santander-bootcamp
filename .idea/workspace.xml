@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2e67ad4-3498-47bd-8b74-decb88430fa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Analista.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Gerente.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionalAnalista.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteGerente.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/imprimeRelatorioFuncionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Cliente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Logavel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteAutenticacao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteCliente.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Funcionario.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionario.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TestePessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TestePessoa.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos_oo/target/classes/META-INF/digionebank.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/Gerente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionarioAnalista.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionarioAnalista.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionarioGerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteFuncionarioGerente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/imprimeRelatorioFuncionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/ImprimeRelatorioFuncionario.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos_oo/target/classes/META-INF/digionebank.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos_oo/target/classes/META-INF/digionebank.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -55,9 +55,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TesteFuncionarioAnalistaKt">
-    <configuration name="TesteBancoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TesteBancoKt" />
+  <component name="RunManager" selected="Kotlin.TesteClienteKt">
+    <configuration name="TesteClienteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TesteClienteKt" />
       <module name="digionebank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TesteFuncionarioAnalistaKt" />
+        <item itemvalue="Kotlin.TesteClienteKt" />
         <item itemvalue="Kotlin.TesteFuncionarioGerenteKt" />
+        <item itemvalue="Kotlin.TesteFuncionarioAnalistaKt" />
         <item itemvalue="Kotlin.TesteFuncionarioKt" />
         <item itemvalue="Kotlin.TestePessoaKt" />
-        <item itemvalue="Kotlin.TesteBancoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -122,16 +122,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/fundamentos_oo/src/main/kotlin/one/digitalinnovation/digionebank/testes/TesteGerente.kt</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

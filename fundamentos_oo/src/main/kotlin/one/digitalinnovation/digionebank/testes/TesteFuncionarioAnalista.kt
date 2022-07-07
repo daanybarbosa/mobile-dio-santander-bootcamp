@@ -9,7 +9,7 @@ fun main(){
     // println(joao.salario)
 
     //imprimeRelatorio(joao)
-    imprimeRelatorioFuncionario.imprime(joao)
+    ImprimeRelatorioFuncionario.imprime(joao)
 }
 
 //fun imprimeRelatorio(funcionario: Funcionario) = println(funcionario.toString())
